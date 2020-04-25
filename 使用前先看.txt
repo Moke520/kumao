@@ -1,0 +1,8 @@
+这个包，没有安装好任何的依赖，自行用
+
+npm install  /  cnpm install  
+
+
+
+---------------------
+然后自己安装一些依赖，比如说axios、element-ui、iview 等等
